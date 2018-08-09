@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="c3p0-0.9.1.1">
+    <CLASSES>
+      <root url="jar://F:/jar/任务/c3p0-0.9.1.1.jar!/" />
+      <root url="jar://F:/jar/任务/quartz-2.3.0.jar!/" />
+      <root url="file://F:/jar/任务/1.7.7" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://F:/jar/任务/1.7.7" recursive="false" />
+  </library>
+</component>
